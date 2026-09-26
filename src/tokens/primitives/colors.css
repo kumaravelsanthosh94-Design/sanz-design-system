@@ -1,6 +1,33 @@
 :root {
-  --sanz-color-brand-100: #F0DDFC;
-  --sanz-color-brand-200: #E0BAF9;
-  --sanz-color-brand-300: #D198F5;
-  --sanz-color-brand-400: #C175F2;
+  /* Base */
+  --sanz-color-black: #000000;
+  --sanz-color-white: #ffffff;
+
+  /* Gray */
+  --sanz-color-gray-950: #121212;
+  --sanz-color-gray-900: #1c1c1c;
+  --sanz-color-gray-800: #2b2b2b;
+  --sanz-color-gray-700: #414141;
+  --sanz-color-gray-600: #585858;
+  --sanz-color-gray-500: #707070;
+  --sanz-color-gray-400: #898989;
+  --sanz-color-gray-300: #a3a3a3;
+  --sanz-color-gray-200: #bebebe;
+  --sanz-color-gray-100: #e0e0e0;
+  --sanz-color-gray-50: #f5f5f5;
+
+    /* Coolgray */
+  --sanz-color-coolgray-950: #0E1217;
+  --sanz-color-coolgray-900: #151A1F;
+  --sanz-color-coolgray-800: #22262E;
+  --sanz-color-coolgray-700: #343B45;
+  --sanz-color-coolgray-600: #4C5563;
+  --sanz-color-coolgray-500: #626D7C;
+  --sanz-color-coolgray-400: #848E9E;
+  --sanz-color-coolgray-300: #A2ABB8;
+  --sanz-color-coolgray-200: #C3C9D1;
+  --sanz-color-coolgray-100: #E2E5EB;
+  --sanz-color-coolgray-50: #F7F8FB;
+
+  
 }
